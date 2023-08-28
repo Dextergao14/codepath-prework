@@ -40,9 +40,12 @@ Example App: Instagram
 
 Example App: Tiktok
 1. link to buy product along with short videos
-2. scroll through different contents
+2. Scroll through different contents
    
-
+IDEA: Build an app to publish my AI-powered comic content.
+Users are allowed to switch through different types of content layouts,
+including Light novels, manga, novels, paintings, and even stylized short videos. They are also allowed
+to provide reactions to each artwork, purchase products through side links, and so on.
 
 ## Notes
 
@@ -50,7 +53,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Dexter Gao]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
